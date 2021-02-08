@@ -4,9 +4,9 @@ I work as a freelance web developer: Angular, ASP.NET, C #. Since 2000 I have be
 
 I create both web applications and e-commerce portals in a full responsive design logic using bootstrap, also considering the aspect of web performance and page loading time. If I don't work within a team, I take care of the analysis, architecture and development, trying to use the most suitable technologies for the project. I also evaluate the benefits of design patterns to obtain a decoupled code (solid principles).
 
-LinkedIn: https://www.linkedin.com/in/stefano-marchisio-sviluppatore-web-angular-javascript-aspnet-fullstack/<br>
-
 ☝️ I am INTERESTED in COLLABORATING with Software House as a FREELANCE DEVELOPER!
+
+LinkedIn: https://www.linkedin.com/in/stefano-marchisio-sviluppatore-web-angular-javascript-aspnet-fullstack/<br>
 
 💻 Website: https://www.stefanomarchisio.it<br>
 💻 Article on medium: https://medium.com/@mastefano64<br>
