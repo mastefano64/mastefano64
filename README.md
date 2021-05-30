@@ -1,6 +1,6 @@
 # Stefano Marchisio
 
-I work as a freelance web developer: Angular, ASP.NET, C #. Since 2000 I have been interested in everything that revolves around the web, first with asp then with asp.net (ASP.NET WebForm / ASP.NET MVC). I have been using ASP.NET MVC CORE since the first version.
+I work as a freelance web developer: Angular, ASP.NET, C #. Since 2000 I have been interested in everything that revolves around the web, first with asp then with asp.net (ASP.NET WebForm / ASP.NET MVC). I have been using ASP.NET MVC CORE since the first version. 
 
 I create both web applications and e-commerce portals in a full responsive design logic using bootstrap, also considering the aspect of web performance and page loading time. If I don't work within a team, I take care of the analysis, architecture and development, trying to use the most suitable technologies for the project. I also evaluate the benefits of design patterns to obtain a decoupled code (solid principles).
 
