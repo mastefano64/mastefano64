@@ -17,4 +17,4 @@ LinkedIn: https://www.linkedin.com/in/stefano-marchisio-sviluppatore-web-angular
 ☑️ Languages C#, HTML, CSS, TypeScript/JavaScript, SQL<br>
 ☑️ Technology:Angular, Blazor, ASP.NET WebForm, ASP.NET MVC, ASP.NET CORE, JQuery, rxjs<br>
 ☑️ DataBase: Entity Framework, Microsoft SqlServer<br>
-☑️ Operating systems: Windows, Linux<br>
+☑️ Operating systems: Windows, Linux<br> 
