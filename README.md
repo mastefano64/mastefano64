@@ -7,6 +7,7 @@ I create both web applications and e-commerce portals in a full responsive desig
 ☝️ I am INTERESTED in COLLABORATING with Software House as a FREELANCE DEVELOPER!
 
 LinkedIn: https://www.linkedin.com/in/stefano-marchisio-sviluppatore-web-angular-javascript-aspnet-fullstack/<br>
+LinkedIn services page: https://www.linkedin.com/services/page/9406693142a032b681/<br>
 
 💻 Website: https://www.stefanomarchisio.it<br>
 💻 Article on medium: https://medium.com/@mastefano64<br>
@@ -14,7 +15,7 @@ LinkedIn: https://www.linkedin.com/in/stefano-marchisio-sviluppatore-web-angular
 💻 Github: https://github.com/mastefano64<br>
 
 ☑️ Software engineer freelance: Full-stack (Front-end / Back-end)<br>
-☑️ Languages C#, HTML, CSS, TypeScript/JavaScript, SQL<br>
+☑️ Languages: C#, HTML, CSS, TypeScript/JavaScript, SQL<br>
 ☑️ Technology:Angular, Blazor, ASP.NET WebForm, ASP.NET MVC, ASP.NET CORE, JQuery, rxjs<br>
 ☑️ DataBase: Entity Framework, Microsoft SqlServer<br>
 ☑️ Operating systems: Windows, Linux<br> 
