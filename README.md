@@ -19,3 +19,13 @@ LinkedIn services page: https://www.linkedin.com/services/page/9406693142a032b68
 ☑️ Technology:Angular, Blazor, ASP.NET WebForm, ASP.NET MVC, ASP.NET CORE, JQuery, rxjs<br>
 ☑️ DataBase: Entity Framework, Microsoft SqlServer<br>
 ☑️ Operating systems: Windows, Linux<br> 
+
+
+### Languages and Tools:
+
+![Angular](https://www.stefanomarchisio.it/loghi/b/logo1.png)
+![Angular](https://www.stefanomarchisio.it/loghi/b/logo2.png)
+![Angular](https://www.stefanomarchisio.it/loghi/b/logo3.png)
+![Angular](https://www.stefanomarchisio.it/loghi/b/logo4.png)
+![Angular](https://www.stefanomarchisio.it/loghi/b/logo5.png)
+![Angular](https://www.stefanomarchisio.it/loghi/b/logo6.png)
