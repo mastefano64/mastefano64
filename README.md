@@ -1,4 +1,4 @@
-# Stefano Marchisio  
+# Stefano Marchisio - Web Developer Freelance
 
 I work as a freelance web developer: Angular, ASP.NET, C #. Since 2000 I have been interested in everything that revolves around the web, first with asp then with asp.net (ASP.NET WebForm / ASP.NET MVC). I have been using ASP.NET MVC CORE since the first version. 
 
