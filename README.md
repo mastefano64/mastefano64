@@ -20,6 +20,7 @@ LinkedIn services page: https://www.linkedin.com/services/page/9406693142a032b68
 ☑️ DataBase: Entity Framework, Microsoft SqlServer<br>
 ☑️ Operating systems: Windows, Linux<br> 
 
+MasterDetail control for Angular: https://www.stefanomarchisio.it](https://github.com/mastefano64/AppMasterDetail <br>
 
 ### Languages and Tools:
 
