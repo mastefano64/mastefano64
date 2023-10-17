@@ -7,7 +7,7 @@ I create both web applications and e-commerce portals in a full responsive desig
 ☝️ I am INTERESTED in COLLABORATING with Software House as a FREELANCE DEVELOPER!
 
 LinkedIn: https://www.linkedin.com/in/stefano-marchisio-sviluppatore-web-angular-javascript-aspnet-fullstack/<br>
-LinkedIn services page: https://www.linkedin.com/services/page/9406693142a032b681/<br>
+LinkedIn my article: https://www.linkedin.com/pulse/sono-uno-sviluppatore-angular-aspnet-core-e-vorrei-cosa-marchisio/<br>
 
 💻 Website: https://www.stefanomarchisio.it<br>
 💻 Article on medium: https://medium.com/@mastefano64<br>
