@@ -20,7 +20,7 @@ LinkedIn services page: https://www.linkedin.com/services/page/9406693142a032b68
 ☑️ DataBase: Entity Framework, Microsoft SqlServer<br>
 ☑️ Operating systems: Windows, Linux<br> 
 
-MasterDetail control for Angular: https://github.com/mastefano64/AppMasterDetail <br>
+**MasterDetail control for Angular**: https://github.com/mastefano64/AppMasterDetail <br>
 
 MasterDetail is an Angular control that allows the display of data sources that are linked by a master-detail relationship. It offers various features, including pagination, list view, 
 tabular view, insertion, editing, deletion, grouping/field (if tabular view is being used), creation of custom detail panels, etc... The various panels: "list", "tabular" or "custom";
